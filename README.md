@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 20px;">Hi, i'm argvsc47</h2>
+<h1 align="center">Hi, i'm argvsc47</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=argvsc47&theme=radical&show_icons=true" />
