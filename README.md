@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=argvsc47&theme=darkhub&column=7" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=argvsc47&theme=darkhub&margin-h=25&margin-w=25" />
 </a>
 
 ## I hate Frontend
