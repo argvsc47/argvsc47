@@ -15,6 +15,8 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=argvsc47&theme=darkhub&margin-h=25&margin-w=25" />
 </a>
 
+<br />
+
 <a href="https://twitter.com/ryanlanciaux/status/1283755637126705152">
   <img align="center" src="https://profile-counter.glitch.me/argvsc47/count.svg" />
 </a>
