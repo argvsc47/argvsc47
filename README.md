@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argvsc47&theme=radical" style="margin-bottom: 5px;" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=argvsc47&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=argvsc47&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Hi i'm argvsc47
 ## I hate Frontend
