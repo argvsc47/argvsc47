@@ -15,6 +15,8 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=argvsc47&theme=darkhub&margin-h=25&margin-w=25" />
 </a>
 
+![Visitor Count](https://profile-counter.glitch.me/argvsc47/count.svg)
+
 
 ### I hate Frontend
 ### I enjoy low level programming
