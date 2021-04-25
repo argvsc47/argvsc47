@@ -19,7 +19,7 @@
 <br />
 
 <a href="https://twitter.com/ryanlanciaux/status/1283755637126705152">
-  <p>lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum<img align="center" src="https://profile-counter.glitch.me/argvsc47/count.svg" /></p>
+  <p>&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://profile-counter.glitch.me/argvsc47/count.svg" /></p>
 </a>
 
 ### I hate Frontend
