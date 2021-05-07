@@ -24,5 +24,5 @@
 
 ### I hate Frontend
 ### I enjoy low level programming
-### I'm current working on a programming language called Unit
+### I'm currently working on a programming language called Unit
 ### Donate plz: [link](https://buymeacoffee.com/argvsc47)
