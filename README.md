@@ -22,7 +22,5 @@
   <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://profile-counter.glitch.me/argvsc47/count.svg" /></p>
 </a>
 
-### I hate Frontend
-### I enjoy low level programming
-### I'm currently working on a programming language called Unit
+### Doing stuffs
 ### Donate plz: [link](https://buymeacoffee.com/argvsc47)
